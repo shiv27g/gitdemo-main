@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: manifoldailearning/docker-demo:${{ github.sha }}
+          tags: sivagatla/docker-demo:${{ github.sha }}
