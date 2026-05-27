@@ -9,5 +9,5 @@ def test_add():
     assert result == 3
 
 def test_divide():
-    result = divide(10, 2)
-    assert result == 5
+    result = divide(15, 5)
+    assert result == 3
